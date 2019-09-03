@@ -1,0 +1,121 @@
+city,year,pollutant,state,value,month,day
+Cincinnati,2012,CO,Ohio,1.1949999999999998,2,60
+Cincinnati,2012,NO2,Ohio,43.0,2,60
+Cincinnati,2012,O3,Ohio,0.04,2,60
+Cincinnati,2012,SO2,Ohio,102.35,2,60
+Cincinnati,2013,CO,Ohio,1.32,12,365
+Cincinnati,2013,NO2,Ohio,58.0,12,365
+Cincinnati,2013,O3,Ohio,0.07400000000000001,12,365
+Cincinnati,2013,SO2,Ohio,82.9,12,365
+Cincinnati,2014,CO,Ohio,1.0550000000000002,12,365
+Cincinnati,2014,NO2,Ohio,50.0,12,365
+Cincinnati,2014,O3,Ohio,0.078,12,365
+Cincinnati,2014,SO2,Ohio,90.35,12,365
+Cincinnati,2015,CO,Ohio,1.008,12,365
+Cincinnati,2015,NO2,Ohio,57.0,12,365
+Cincinnati,2015,O3,Ohio,0.075,12,365
+Cincinnati,2015,SO2,Ohio,40.3,12,365
+Denver,2012,CO,Colorado,3.3,12,366
+Denver,2012,NO2,Colorado,85.0,12,366
+Denver,2012,O3,Colorado,0.07566666666666666,12,366
+Denver,2012,SO2,Colorado,37.0,12,366
+Denver,2013,CO,Colorado,5.1,12,365
+Denver,2013,NO2,Colorado,82.0,12,365
+Denver,2013,O3,Colorado,0.07400000000000001,12,365
+Denver,2013,SO2,Colorado,44.15,12,365
+Denver,2014,CO,Colorado,2.6500000000000004,12,365
+Denver,2014,NO2,Colorado,136.4,12,365
+Denver,2014,O3,Colorado,0.068,12,365
+Denver,2014,SO2,Colorado,13.3,12,365
+Denver,2015,CO,Colorado,2.45,12,365
+Denver,2015,NO2,Colorado,94.9,12,365
+Denver,2015,O3,Colorado,0.077,12,365
+Denver,2015,SO2,Colorado,17.3,12,365
+Des Moines,2012,CO,Iowa,1.2255,10,305
+Des Moines,2012,NO2,Iowa,50.1,10,305
+Des Moines,2012,O3,Iowa,0.07,10,305
+Des Moines,2012,SO2,Iowa,1.6,10,305
+Des Moines,2013,CO,Iowa,0.8059999999999999,10,304
+Des Moines,2013,NO2,Iowa,43.6,10,304
+Des Moines,2013,O3,Iowa,0.0625,10,304
+Des Moines,2013,SO2,Iowa,0.95,10,304
+Des Moines,2014,CO,Iowa,1.0550000000000002,10,304
+Des Moines,2014,NO2,Iowa,47.0,10,304
+Des Moines,2014,O3,Iowa,0.068,10,304
+Des Moines,2014,SO2,Iowa,1.05,10,304
+Des Moines,2015,CO,Iowa,0.8945,10,300
+Des Moines,2015,NO2,Iowa,41.1,10,300
+Des Moines,2015,O3,Iowa,0.065,10,300
+Des Moines,2015,SO2,Iowa,1.65,10,300
+Fairbanks,2014,CO,Alaska,2.23,12,365
+Fairbanks,2014,NO2,Alaska,95.1,12,365
+Fairbanks,2014,O3,Alaska,0.035,12,365
+Fairbanks,2014,SO2,Alaska,30.05,12,365
+Fairbanks,2015,CO,Alaska,5.17,12,365
+Fairbanks,2015,NO2,Alaska,84.9,12,365
+Fairbanks,2015,O3,Alaska,0.051,12,365
+Fairbanks,2015,SO2,Alaska,49.0,12,365
+Houston,2012,CO,Texas,1.40825,12,366
+Houston,2012,NO2,Texas,59.85,12,366
+Houston,2012,O3,Texas,0.10800000000000001,12,366
+Houston,2012,SO2,Texas,21.325,12,366
+Houston,2013,CO,Texas,1.7875,12,365
+Houston,2013,NO2,Texas,65.05,12,365
+Houston,2013,O3,Texas,0.08199999999999999,12,365
+Houston,2013,SO2,Texas,34.7,12,365
+Houston,2014,CO,Texas,1.51875,12,365
+Houston,2014,NO2,Texas,59.75,12,365
+Houston,2014,O3,Texas,0.068,12,365
+Houston,2014,SO2,Texas,21.675,12,365
+Houston,2015,CO,Texas,1.32,12,365
+Houston,2015,NO2,Texas,88.3,12,365
+Houston,2015,O3,Texas,0.092,12,365
+Houston,2015,SO2,Texas,7.300000000000002,12,365
+Indianapolis,2012,CO,Indiana,1.25,9,274
+Indianapolis,2012,NO2,Indiana,49.2,9,274
+Indianapolis,2012,O3,Indiana,0.09300000000000001,9,274
+Indianapolis,2012,SO2,Indiana,145.0,9,274
+Indianapolis,2013,CO,Indiana,1.55,12,365
+Indianapolis,2013,NO2,Indiana,47.8,12,365
+Indianapolis,2013,O3,Indiana,0.0725,12,365
+Indianapolis,2013,SO2,Indiana,81.15,12,365
+Indianapolis,2014,CO,Indiana,1.15,12,355
+Indianapolis,2014,NO2,Indiana,57.5,12,355
+Indianapolis,2014,O3,Indiana,0.07200000000000001,12,355
+Indianapolis,2014,SO2,Indiana,66.95,12,355
+Indianapolis,2015,CO,Indiana,1.7000000000000002,12,365
+Indianapolis,2015,NO2,Indiana,59.0,12,365
+Indianapolis,2015,O3,Indiana,0.071,12,365
+Indianapolis,2015,SO2,Indiana,64.45,12,365
+Long Beach,2012,CO,California,3.35,12,366
+Long Beach,2012,NO2,California,97.8,12,366
+Long Beach,2012,O3,California,0.066,12,366
+Long Beach,2012,SO2,California,17.05,12,366
+Long Beach,2013,CO,California,3.35,12,365
+Long Beach,2013,NO2,California,81.2,12,365
+Long Beach,2013,O3,California,0.0675,12,365
+Long Beach,2013,SO2,California,10.15,12,365
+Long Beach,2014,CO,California,3.1,12,365
+Long Beach,2014,NO2,California,135.9,12,365
+Long Beach,2014,O3,California,0.07200000000000001,12,365
+Long Beach,2014,SO2,California,12.15,12,365
+Long Beach,2015,CO,California,2.75,12,365
+Long Beach,2015,NO2,California,74.8,12,365
+Long Beach,2015,O3,California,0.066,12,365
+Long Beach,2015,SO2,California,26.1,12,365
+Vandenberg Air Force Base,2012,CO,California,0.45,12,366
+Vandenberg Air Force Base,2012,NO2,California,13.0,12,366
+Vandenberg Air Force Base,2012,O3,California,0.062,12,366
+Vandenberg Air Force Base,2012,SO2,California,3.8,12,366
+Vandenberg Air Force Base,2013,CO,California,1.15,12,365
+Vandenberg Air Force Base,2013,NO2,California,17.0,12,365
+Vandenberg Air Force Base,2013,O3,California,0.071,12,365
+Vandenberg Air Force Base,2013,SO2,California,2.5,12,365
+Vandenberg Air Force Base,2014,CO,California,0.95,12,365
+Vandenberg Air Force Base,2014,NO2,California,38.0,12,365
+Vandenberg Air Force Base,2014,O3,California,0.071,12,365
+Vandenberg Air Force Base,2014,SO2,California,10.0,12,365
+Vandenberg Air Force Base,2015,CO,California,0.4,12,365
+Vandenberg Air Force Base,2015,NO2,California,8.0,12,365
+Vandenberg Air Force Base,2015,O3,California,0.061,12,365
+Vandenberg Air Force Base,2015,SO2,California,2.0,12,365
